@@ -28,6 +28,9 @@ body {
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 nav {
@@ -83,7 +86,7 @@ h1 {
     list-style-type: none;
 }
 
-menu > li {
+#menu > li {
     margin-bottom: 1em;
     justify-content: space-between;
 }
