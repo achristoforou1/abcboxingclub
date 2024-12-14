@@ -171,6 +171,10 @@ main {
         height: 600px;
         width: 100%;
     }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
     
     
 
