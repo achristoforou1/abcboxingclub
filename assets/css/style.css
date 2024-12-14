@@ -214,6 +214,14 @@ main {
         text-align: center;
     }
 
+    #offer,
+    #table {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-evenly;
+       
+    }
+
     /* Footer */
    #sign-up > h4 {
         font-size: 250%;
@@ -281,5 +289,18 @@ main {
    #contact > h4 {
         font-size: 400%;
    }
+
+
+
+   #sign-up,
+   #contact {
+    display: flex;
+    
+   }
+
+   #sign-up {
+    justify-content: left;
+   }
     
 }
+
