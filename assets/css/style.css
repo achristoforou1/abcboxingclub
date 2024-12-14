@@ -41,6 +41,11 @@ nav {
     top: 100%;
 }
 
+nav a {
+    text-decoration: none;
+    color: #3a3a3a;
+}
+
 /* Nav toggle */
 #nav-toggle:checked~nav {
     display: block;
