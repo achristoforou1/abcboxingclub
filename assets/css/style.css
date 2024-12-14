@@ -64,8 +64,9 @@ nav a {
 
 
 /* Header */
-header {
-  
+.intro {
+  background-color: #ffffff;
+  margin-bottom: 0;
 }
 
 header a {
@@ -119,6 +120,8 @@ main {
     flex: 1 0 auto;
     
 }
+
+
 
 /* Footer */
 #social-networks {
