@@ -70,6 +70,10 @@ nav a {
   margin-bottom: 0;
 }
 
+header {
+    background-color: #ffffff;
+}
+
 header a {
     text-decoration: none;
     text-transform: uppercase;
@@ -116,7 +120,7 @@ h1 {
 
 /* Main content */
 main {
-    background-color: lightblue;
+    
     /* Make main element take up any surplus space */
     flex: 1 0 auto;
     
