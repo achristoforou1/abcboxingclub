@@ -126,12 +126,28 @@ main {
     
 }
 
-#table {
-    padding-left: 20%;
-    padding-right: 20%;
+#offer {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+table.table-bordered > thead > tr > th {
+    border:1px solid black;
+}
+
+table.table-bordered > tbody > tr > td {
+    border:1px solid black;
 }
 
 
+#table {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.middle {
+    display: flex;
+}
 
 
 /* Footer */
@@ -152,6 +168,7 @@ main {
     font-size: 150%;
     padding: 5%;
     color: #3a3a3a;
+    bottom: 20px;
 }
 
 
