@@ -121,6 +121,12 @@ main {
     
 }
 
+#table {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+
 
 
 /* Footer */
@@ -182,7 +188,7 @@ main {
 
     #intro > h2, #intro > h4 {
         font-size: 250%;
-        color: #ffffff;
+        
     }
     
     
@@ -194,14 +200,12 @@ main {
     }
 
     #about > h3 {
-        
-        font-size: 250%;
+                font-size: 250%;
     }
 
     
     #offer > h4 {
-        
-        font-size: 250%;
+               font-size: 250%;
     }
 
     #table > h4 {
@@ -212,13 +216,11 @@ main {
 
     /* Footer */
    #sign-up > h4 {
-    
-    font-size: 250%;
+        font-size: 250%;
    }
 
    #contact > h4 {
-    
-    font-size: 250%;
+        font-size: 250%;
    }
 
 }
@@ -229,6 +231,12 @@ main {
         border-bottom: 1px solid #3a3a3a;
     }
 
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+       
+    }
 
     .w100 {
         flex: 1 0 auto;
@@ -236,5 +244,42 @@ main {
         height: 1000px;
         width: 100%;
     }
+
+    #intro > h2, #intro > h4 {
+        font-size: 250%;
+        
+    }
+    
+    
+
+      /* Main content */
+      main {
+        /* Push main content down to accommodate larger header */
+        margin-top: 79px;
+    }
+
+    #about > h3 {
+                font-size: 400%;
+    }
+
+    
+    #offer > h4 {
+               font-size: 400%;
+    }
+
+    #table > h4 {
+        
+        font-size: 400%;
+        text-align: center;
+    }
+
+    /* Footer */
+   #sign-up > h4 {
+        font-size: 400%;
+   }
+
+   #contact > h4 {
+        font-size: 400%;
+   }
     
 }
