@@ -98,6 +98,7 @@ h1 {
 /* Hero image */
 
 .w100 {
+    margin-top: 52px;
     flex: 1 0 auto;
     width: 100%;
     height: 300px;
