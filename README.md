@@ -22,10 +22,12 @@ In this section, you should go over the different parts of your project, and des
 
 - __The header__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The header shows an image of a girl boxing with a trainer who has padding gear on. 
+  - The header shows the name of the club in a clear and large font size.
+  - The header explains that the boxing club is for children aged 10 to 18.
+  - This section provides the user with clear information about what the site is and who the club is for.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![image of the header image and landing page](<header image landing page.png>)
 
 - __Club Ethos Section__
 
