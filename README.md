@@ -51,26 +51,25 @@ In this section, you should go over the different parts of your project, and des
 
 ![sign up form image](<sign up.png>)
 
-- __Gallery__
+- __The Contact Section__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The contact section encourages users to get in contact and provides a phone number, email address and street address where they can be found.
+  - The contact section includes social media icons so users can find ABC Boxing Club on facebook, twitter and instagram.
+  - The contact section is valuable to the user as it gives them the ability to find and contact ABC Boxing Club if they need to.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
+![contact us section image](<contact us.png>)
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
-- Another feature idea
+- Gallery page/section with images of the facilities and some of training sessions.
+- Member and parent/guardian testimonials.
 
 ## Testing 
 
