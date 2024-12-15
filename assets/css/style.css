@@ -126,10 +126,7 @@ main {
     
 }
 
-#offer {
-    padding-left: 50px;
-    padding-right: 50px;
-}
+
 
 table.table-bordered > thead > tr > th {
     border:1px solid black;
@@ -140,10 +137,7 @@ table.table-bordered > tbody > tr > td {
 }
 
 
-#table {
-    padding-left: 50px;
-    padding-right: 50px;
-}
+
 
 .row {
     display: flex;
@@ -155,10 +149,7 @@ table.table-bordered > tbody > tr > td {
     background-color: #ffffff;
 }
 
-#sign-up {
-    height: 200px;
-    width: 200px;
-}
+
 
 #social-networks {
     text-align: center;
