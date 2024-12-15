@@ -29,12 +29,12 @@ In this section, you should go over the different parts of your project, and des
 
 ![image of the header image and landing page](<header image landing page.png>)
 
-- __Club Ethos Section__
+- __The About Us Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The About Us section gives details about what the club offers their members in a list format.
+  - This section shows the user the important information they need to know about the club in detail giving the user confidence knowing the club ethos and services provided. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![About us section](<About us-1.png>)
 
 - __Meetup Times section__
 
