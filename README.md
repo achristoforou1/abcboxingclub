@@ -4,7 +4,7 @@ The ABC Boxing Club website is a landing page for parents who have children inte
 
 Users of the website will be able to find all the information they need about the club. What they offer in the facility in full detail, including opening times, pricing, contact information, a full list of what the club offers in these sessions and a sign up form. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![website preview on all different screen sizes](<AM i responsive.png>)
 
 ## Features 
 
@@ -14,12 +14,13 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured at the top of the page, the navigation shows the club name in the top left corner:ABC BOXING CLUB that also links back to the top of the page when clicked.
+  - The other navigation links are to the right: About us, Sign up, Opening times and Contact us which all link to the different sections of the same page when clicked.
+  - The navigation clearly tells the user the name of the club and website and makes the different sections of information easy to find. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![image of navbar on ABC boxing website](navbar-1.png)
 
-- __The landing page image__
+- __The header__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
   - This section introduces the user to Love Running with an eye catching animation to grab their attention
