@@ -336,6 +336,18 @@ table.table-bordered > tbody > tr > td {
   #footer-table {
     display: flex;
   }
+
+  #contact {
+    margin-right: 200px;
+  }
+
+  #sign-up {
+    margin-left: 150px;
+  }
+
+  #sign-up-title {
+    margin-left: 100px;
+  }
     
 }
 
