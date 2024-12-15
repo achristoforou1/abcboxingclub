@@ -108,10 +108,6 @@ h1 {
 }
 
 
-
-
-
-
 /* Main content */
 main {
     
@@ -133,9 +129,7 @@ table.table-bordered > tbody > tr > td {
 
 
 
-.row {
-    display: flex;
-}
+
 
 #success {
     padding-top: 300px;
@@ -219,10 +213,7 @@ table.table-bordered > tbody > tr > td {
         margin-top: 79px;
     }
 
-    .middle{
-        display: flex;
-    }
-
+   
     #about > h3 {
                 font-size: 250%;
     }
@@ -232,17 +223,11 @@ table.table-bordered > tbody > tr > td {
                font-size: 250%;
     }
 
-    #table > h4 {
-        
-        font-size: 250%;
-        text-align: center;
-    }
 
     #offer,
     #table {
         display: flex;
-        flex-wrap: wrap;
-        padding: 15px;
+       
 
        
     }
@@ -310,6 +295,8 @@ table.table-bordered > tbody > tr > td {
         font-size: 400%;
         text-align: center;
     }
+
+   
 
     /* Footer */
    #sign-up > h4 {
