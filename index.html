@@ -58,7 +58,7 @@
 
     <!-- Main content -->
     <main>
-        <section class="text-center">
+        <section class="container section">
             <div id="about">
                 <h3><strong>About us</strong></h3>
                 <p>Building up your child's physical strength, stamina and personal confidence since 1998! A hobbie that
@@ -67,12 +67,12 @@
             </div>
 
 
-        <!-- We offer section -->
-    <div class="row">
+            <!-- We offer section -->
+            <div class="row">
                 <div class="col-12 text-center" id="offer">
                     <h4 class="display-6"><strong>We Offer:</strong></h4>
                 </div>
-                <div class="col-12 col-md-6 col-xl-3">   
+                <div class="col-12 col-md-6 col-xl-3">
                     <ul>
                         <li>Separate sessions for different age groups</li>
                         <li>Boys and girls classes separately</li>
@@ -88,9 +88,11 @@
                 </div>
         </section>
         <!-- Opening times -->
-        <section id="opening-times">
-            <div id="table">
+        <section id="opening-times" class="container section">
+            <div class="col-12 text-center">
                 <h4><strong>Opening Times:</strong></h4>
+            </div>
+            <div class="col-12 col-md-6 col-xl-3">
                 <table class="table table-bordered">
                     <thead>
                         <tr>
@@ -141,51 +143,54 @@
                         better!!!</strong></p>
             </div>
         </section>
-    </div>
-       
+        </div>
+
     </main>
 
     <!-- Footer -->
     <footer>
-    <div class="end">
-        <section>
-            <div id="sign-up">
-                <h4 class="text-center"><strong>Sign up!</strong></h4>
-                <h4 class="text-center"><strong>5 classes for £20!</strong></h4>
-                <form class="form text-center">
-                    <div class="mb-3">
-                        <label for="name" class="form-label">Child's name</label>
-                        <input type="name" class="form-control" id="name">
+        <div class="end">
+            <section id="sign-up" class="container secction">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-md-8">
+                        <h4><strong>Sign up!</strong></h4>
+                        <h4><strong>5 classes for £20!</strong></h4>
+                        <form action="success.html" method="GET">
+                            <div class="col-12 col-lg-4 mb-3">
+                                <label for="name" class="form-label">Child's name</label>
+                                <input type="text" class="form-control" id="name" name="name" required>
 
-                    </div>
-                    <div class="mb-3">
-                        <label for="name" class="form-label">Parent/Guardian's name</label>
-                        <input type="name" class="form-control" id="name">
+                            </div>
+                            <div class="col-12 col-lg-4 mb-3">
+                                <label for="name" class="form-label">Parent/Guardian's name</label>
+                                <input type="text" class="form-control" id="name" name="name-2" required>
 
+                            </div>
+                            <div class="col-12 col-lg-4 mb-3">
+                                <label for="email" class="form-label">Contact email</label>
+                                <input type="email" class="form-control" id="email" name="email" required>
+                            </div>
+                            <div class="col-12 col-lg-4 mb-3">
+                                <label for="phone" class="form-label">Contact number</label>
+                                <input type="number" class="form-control" id="phone" name="phone" required>
+                            </div>
+                            <button type="submit" class="btn btn-outline mb-4 custom-button-outline">Submit</button>
+                        </form>
                     </div>
-                    <div class="mb-3">
-                        <label for="email" class="form-label">Contact email</label>
-                        <input type="email" class="form-control" id="email">
-                    </div>
-                    <div class="mb-3">
-                        <label for="phone" class="form-label">Contact number</label>
-                        <input type="phone" class="form-control" id="phone">
-                    </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
-            </div>
-        </section>
-        </form>
-        <section id="contact">
-            <h3 class="text-center"><strong>Contact Us</strong></h3>
-            <h4 class="text-center">Got a question? Get in touch!</h4>
-            <div class="text-center">
-                <h5><strong>012 34506789 | info@abcboxing.net</strong></h5>
-            </div>
-            <div class="text-center">
-                <p><strong>ABC Boxing Club, 123 Fighter St, London</strong></p>
-            </div>
-        </section>
-    </div>
+                </div>
+            </section>
+            </form>
+            <section id="contact">
+                <h3 class="text-center"><strong>Contact Us</strong></h3>
+                <h4 class="text-center">Got a question? Get in touch!</h4>
+                <div class="text-center">
+                    <h5><strong>012 34506789 | info@abcboxing.net</strong></h5>
+                </div>
+                <div class="text-center">
+                    <p><strong>ABC Boxing Club, 123 Fighter St, London</strong></p>
+                </div>
+            </section>
+        </div>
         <ul id="social-networks">
             <li>
                 <a href="https://www.facebook.com/" target="_blank" rel="noopener"
@@ -203,7 +208,7 @@
                     <i class="fa-brands fa-instagram"></i></a>
             </li>
         </ul>
-    
+
 
     </footer>
 

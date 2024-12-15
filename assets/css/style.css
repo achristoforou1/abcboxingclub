@@ -145,7 +145,7 @@ table.table-bordered > tbody > tr > td {
     padding-right: 50px;
 }
 
-.middle {
+.row {
     display: flex;
 }
 
