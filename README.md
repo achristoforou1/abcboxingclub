@@ -73,13 +73,18 @@ In this section, you should go over the different parts of your project, and des
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- I tested that this page works in different browsers: Chrome, Safari, Firefox.
+- I confirmed that the navigation, header, about us, opening times, sign up and contact text are all readable and easy to understand.
+- I confirmed that when clicking on any of the navbar options you are taken to that part of the website page and also the logo on the top left takes the user to the top of the page.
+- I have confirmed that the form works: entries in every field, will only accept an email in the email field and a number in the contact number field.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+### Bugs
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+##### Solved bugs
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- When I copied and pasted my index.html head onto my success page i'd neglected to copy a closing head tag and also part of the code in the stylesheet link which resulted in my css not being linked to my success page.
+- This issue was resolved after checking the code and amending the missing attributes.
+
 
 
 ### Validator Testing 
