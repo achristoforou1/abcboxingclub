@@ -98,6 +98,10 @@ In this section, you should go over the different parts of your project, and des
 - CSS
   - No errors were found when passing through the official Jigsaw validator
 ![jigsaw validator](<css validator.png>)
+- Accessibility
+   - I confirmed that the colours and fonts are easy to read and accessible by running it through lighthouse in devtools.
+   ![lighthouse report](lighthouse.png)
+
 
 ### Unfixed Bugs
 
