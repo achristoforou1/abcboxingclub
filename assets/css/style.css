@@ -151,6 +151,10 @@ table.table-bordered > tbody > tr > td {
 
 
 /* Footer */
+.end {
+    background-color: #ffffff;
+}
+
 #sign-up {
     height: 200px;
     width: 200px;
