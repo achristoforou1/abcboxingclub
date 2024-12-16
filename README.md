@@ -70,6 +70,7 @@ In this section, you should go over the different parts of your project, and des
 
 - Gallery page/section with images of the facilities and some of training sessions.
 - Member and parent/guardian testimonials.
+![user stories image](<user stories.png>)
 
 ## Testing 
 
