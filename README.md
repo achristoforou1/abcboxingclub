@@ -4,7 +4,7 @@ The ABC Boxing Club website is a landing page for parents who have children inte
 
 Users of the website will be able to find all the information they need about the club. What they offer in the facility in full detail, including opening times, pricing, contact information, a full list of what the club offers in these sessions and a sign up form. 
 
-![website preview on all different screen sizes](assets/images/pexels-sabel-blanco-662810-1544774.jpg)
+![website preview on all different screen sizes](/assets/images/am_i_responsive.png)
 
 ## Features 
 
