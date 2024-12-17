@@ -289,7 +289,11 @@ table.table-bordered>tbody>tr>td {
         display: flex;
     }
 
-  
+    #contact {
+        padding-right: 100px; 
+         
+        
+    }
 
 
 
