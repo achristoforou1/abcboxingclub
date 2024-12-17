@@ -18,7 +18,7 @@ Users of the website will be able to find all the information they need about th
   - The other navigation links are to the right: About us, Sign up, Opening times and Contact us which all link to the different sections of the same page when clicked.
   - The navigation clearly tells the user the name of the club and website and makes the different sections of information easy to find. 
 
-![image of navbar on ABC boxing website](navbar-1.png)
+![image of navbar on ABC boxing website](/assets/images/navbar_image.png)
 
 - __The header__
 
@@ -27,21 +27,21 @@ Users of the website will be able to find all the information they need about th
   - The header explains that the boxing club is for children aged 10 to 18.
   - This section provides the user with clear information about what the site is and who the club is for.
 
-![image of the header image and landing page](<header image landing page.png>)
+![image of the header image and landing page](/assets/images/header_image_landing_page.png)
 
 - __The About Us Section__
 
   - The About Us section gives details about what the club offers their members in a list format.
   - This section shows the user the important information they need to know about the club in detail giving the user confidence knowing the club ethos and services provided. 
 
-![About us section](<About us-1.png>)
+![About us section](/assets/images/about_us.png)
 
 - __The Opening Times section__
 
   - This section will allow the user to see exactly when the club sessions start and end on the different days of the week.
   - This section also shows the get together the club has once a week where members and non-members are welcome. 
 
-![Opening times section](<opening times.png>)
+![Opening times section](/assets/images/opening_times.png)
 
 - __The Sign Up Form__ 
 
@@ -49,7 +49,7 @@ Users of the website will be able to find all the information they need about th
   - The form collects the child's name, parent/guardian's name, an email address and a contact phone number.
   - The sign up form is valuable to the user as it gives them the ability to sign up to join the ABC Boxing Club.
 
-![sign up form image](<sign up.png>)
+![sign up form image](/assets/images/sign_up.png)
 
 - __The Contact Section__
 
@@ -57,20 +57,13 @@ Users of the website will be able to find all the information they need about th
   - The contact section includes social media icons so users can find ABC Boxing Club on facebook, twitter and instagram.
   - The contact section is valuable to the user as it gives them the ability to find and contact ABC Boxing Club if they need to.
 
-![contact us section image](<contact us.png>)
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-
+![contact us section image](/assets/images/contact_us.png)
 
 ### Features Left to Implement
 
 - Gallery page/section with images of the facilities and some of training sessions.
 - Member and parent/guardian testimonials.
-![user stories image](<user stories.png>)
+![user stories image](/assets/images/user_stories.png)
 
 ## Testing 
 
@@ -92,16 +85,16 @@ Users of the website will be able to find all the information they need about th
 
 - HTML
   - No errors were returned when passing through the official W3C validator
-![W3C Validator html](<html checker.png>)
+![W3C Validator html](/assets/images/html_checker.png)
 - HTML SUCCESS PAGE
  - No errors were returned when passing through the official W3C validator
- ![W3C validator success page](<html success.png>)
+ ![W3C validator success page](/assets/images/html_success.png)
 - CSS
   - No errors were found when passing through the official Jigsaw validator
-![jigsaw validator](<css validator.png>)
+![jigsaw validator]()
 - Accessibility
    - I confirmed that the colours and fonts are easy to read and accessible by running it through lighthouse in devtools.
-   ![lighthouse report](lighthouse.png)
+   ![lighthouse report](/assets/images/lighthouse_report.png)
 
 
 ### Unfixed Bugs
