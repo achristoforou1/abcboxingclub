@@ -67,6 +67,10 @@ nav a {
 
 /* Header */
 
+#hero img {
+    object-fit: cover;
+}
+
 
 header {
     background-color: #ffffff;
